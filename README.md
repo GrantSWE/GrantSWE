@@ -1,0 +1,3 @@
+- ⌚ Hi, I’m Grant. Studying business and CS @ UNT.
+- 📈 Infatuated with trading and web development.
+- 🌱 Currently learning financial market automation.
